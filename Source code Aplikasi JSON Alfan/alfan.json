@@ -1,0 +1,25 @@
+{
+  "people" : [
+    {
+       "firstName": "Muhammad ",
+       "lastName": "Alfan",
+       "gender": "male",
+       "age": 21,
+       "number": "0877889876567"
+    },
+    {
+       "firstName": "Munadi",
+       "lastName": "Syahrul",
+       "gender": "male",
+       "age": 19,
+       "number": "087647543567"
+    },
+    {
+       "firstName": "Fadlul",
+       "lastName": "Mubarok",
+       "gender": "male",
+       "age": 24,
+       "number": "081253672837"
+    }
+  ]
+}

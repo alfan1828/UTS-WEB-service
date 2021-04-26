@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<catalog>
+   <book id="bk101">
+      <author>Kartini</author>
+      <title>Habis Gelap Terbitlah Terang</title>
+      <genre>Perjuangan</genre>
+      <price>95,000</price>
+      <publish_date>1911-10-01</publish_date>
+      <description>Habis Gelap Terbitlah Terang adalah buku kumpulan surat yang ditulis oleh Kartini. Kumpulan surat tersebut dibukukan oleh J.H. Abendanon dengan judul Door Duisternis Tot Licht. Setelah Kartini wafat, J.H. Abendanon mengumpulkan dan membukukan surat-surat yang pernah dikirimkan R.A Kartini pada teman-temannya di Eropa.</description>
+   </book>
+   <book id="bk102">
+      <author>Pidi Baiq</author>
+      <title>Dilan: Dia adalah Dilanku tahun 1990</title>
+      <genre>Fiksi</genre>
+      <price>60,000</price>
+      <publish_date>2014-04-16</publish_date>
+      <description>Dilan: Dia adalah Dilanku tahun 1990 adalah sebuah novel karya Pidi Baiq yang diterbitkan oleh Penerbit Pastel Books. Novel tersebut menjadi buku dengan penjualan terbaik di Gramedia, serta diadaptasi ke dalam sebuah film yang berjudul Dilan 1990..</description>
+   </book>
+   <book id="bk103">
+      <author>Mark Manson</author>
+      <title>Sebuah Seni untuk Bersikap Bodo Amat</title>
+      <genre>Bantuan diri</genre>
+      <price>50,000</price>
+      <publish_date>2016-09-13</publish_date>
+      <description>Sebuah Seni untuk Bersikap Bodo Amat: Pendekatan yang Waras Demi Menjalani Hidup yang Baik atau The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life adalah buku pertama Mark Manson, seorang narablog kenamaan dengan lebih dari 2 juta pembaca. Dia tinggal di kota New York.</description>
+   
+   </book>
+</catalog>
